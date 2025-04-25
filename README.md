@@ -1,8 +1,6 @@
 
 A lightweight shopping list app that helps you add and remove items easily. Stay organized and never forget what to buy again!
 
-(Add a screenshot or GIF here if possible)
-
 ✨ Features
 
 ✅ Add items to your shopping list
